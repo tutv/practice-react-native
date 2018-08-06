@@ -17,3 +17,6 @@
 - [Realm Databases](https://github.com/tutv/rn-realm)
 - [Firebase Authentication](https://github.com/tutv/rn-firebase-authentication)
 - [Product Hunt App](https://github.com/tutv/rn-product-hunt)
+
+### 4. Packaging
+- [Packaging demo](https://github.com/tutv/rn-packaging-demo)
